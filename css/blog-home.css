@@ -11,3 +11,9 @@ body {
 footer {
     margin: 50px 0;
 }
+
+.btn-custom{
+	background-color: #3467eb;
+	border: 1px solid #3467eb;
+	color: white;
+}
